@@ -10,7 +10,7 @@ tags: [JavaScript, CoffeeScript]
 
 所以下面的三个方法就是实现这个目的.
 
-<script src="https://gist.github.com/Wyntau/7098115.js"></script>
+<script src="https://gist.github.com/ik0r/7098115.js"></script>
 
 ## 检验方法
 

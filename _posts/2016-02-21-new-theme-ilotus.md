@@ -13,7 +13,7 @@ tags: [Jekyll]
 
 喜欢的朋友可以查看 <https://github.com/pizn/iLotus>
 
-在原版的基础上, 本人进行了一些修改, 修改版地址: <https://github.com/Wyntau/jekyll-theme-iLotus>
+在原版的基础上, 本人进行了一些修改, 修改版地址: <https://github.com/ik0r/jekyll-theme-iLotus>
 
 主要修改内容:
 

@@ -98,8 +98,8 @@ defaults:
 #站点基础配置
 title: 自说Me话
 tagline: I Say Me | 我说我自己 | 我说世界
-description: Wyntau's Individual Blog. 自说Me话,一个前端开发新手的网络记录,同喜欢网络,Linux,前端开发,爱折腾的人共同分享,记录折腾心得还有学习过程.
-keywords: Wyntau,Linux,Web,前端开发,自说Me话,ISayme,Internet
+description: ik0r's Individual Blog. 自说Me话,一个前端开发新手的网络记录,同喜欢网络,Linux,前端开发,爱折腾的人共同分享,记录折腾心得还有学习过程.
+keywords: ik0r,Linux,Web,前端开发,自说Me话,ISayme,Internet
 url: https://isay.me
 
 # comments
@@ -108,7 +108,7 @@ comments:
   disqus:
     shortname: isaymesite
 
-remote_theme: wyntau/jekyll-theme-iLotus
+remote_theme: ik0r/jekyll-theme-iLotus
 
 #iLotus configs
 iLotus:
