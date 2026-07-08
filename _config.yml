@@ -107,7 +107,7 @@ comments:
   disqus:
     shortname: isaymesite
 
-theme: jekyll-theme-iLotus
+theme: jekyll-theme-ilotus
 
 #iLotus configs
 iLotus:
