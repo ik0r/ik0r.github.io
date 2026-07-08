@@ -1,0 +1,126 @@
+.github/workflows/jekyll.yml
+  s_231f90617936af::t_f9cb9972b3a277 14-18,28-29,31-32 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a4df46daf557ceb59b19e65","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[14,18]},{"Range":[28,29]},{"Range":[31,32]}]}]}
+  s_231f90617936af::t_31d0e81000c8f5 61-62 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a4df47eaf557ceb59b19e68","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[61,62]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "13b7265dc156e0765739935f83b98418cad6343f",
+  "prompts": {},
+  "sessions": {
+    "s_231f90617936af": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a4de80aaf557ceb59b19cc4",
+        "model": "openrouter-3o__max",
+        "display_model_name": "openrouter-3o"
+      },
+      "human_author": "ik0r <2631733+ik0r@users.noreply.github.com>"
+    }
+  },
+  "attestation_metadata": {
+    ".github/workflows/jekyll.yml": [
+      {
+        "hash": "s_231f90617936af::t_f9cb9972b3a277",
+        "line_ranges": [
+          {
+            "Range": [
+              14,
+              18
+            ]
+          },
+          {
+            "Range": [
+              28,
+              29
+            ]
+          },
+          {
+            "Range": [
+              31,
+              32
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a4df46daf557ceb59b19e65",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  14,
+                  18
+                ]
+              },
+              {
+                "Range": [
+                  28,
+                  29
+                ]
+              },
+              {
+                "Range": [
+                  31,
+                  32
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "hash": "s_231f90617936af::t_31d0e81000c8f5",
+        "line_ranges": [
+          {
+            "Range": [
+              61,
+              62
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a4df47eaf557ceb59b19e68",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  61,
+                  62
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_231f90617936af": {
+      "tool": "trae",
+      "conversation_id": "6a4de80aaf557ceb59b19cc4",
+      "session_id": "6a4de80aaf557ceb59b19cc4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_231f90617936af::t_31d0e81000c8f5": {
+      "tool": "trae",
+      "conversation_id": "6a4de80aaf557ceb59b19cc4",
+      "session_id": "6a4de80aaf557ceb59b19cc4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_231f90617936af::t_f9cb9972b3a277": {
+      "tool": "trae",
+      "conversation_id": "6a4de80aaf557ceb59b19cc4",
+      "session_id": "6a4de80aaf557ceb59b19cc4",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
