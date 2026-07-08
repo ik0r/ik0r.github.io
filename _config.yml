@@ -38,7 +38,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
 
 # # Conversion
 # markdown            : kramdown
@@ -108,7 +107,7 @@ comments:
   disqus:
     shortname: isaymesite
 
-remote_theme: ik0r/jekyll-theme-iLotus
+theme: jekyll-theme-iLotus
 
 #iLotus configs
 iLotus:
